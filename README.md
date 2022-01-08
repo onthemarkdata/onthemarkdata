@@ -1,16 +1,17 @@
-### Hi there 👋
+Hi there 👋🏽  
+Thank you for visiting my GitHub profile, I'm so excited you are here!  
 
-<!--
-**onthemarkdata/onthemarkdata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me:  
+🎯 Founder of On the Mark Data.  
+📊 I'm a data scientist who is passionate about all things data.  
+😄 Pronouns - He/Him/His.  
 
-Here are some ideas to get you started:
+Fun Facts:  
+🕺🏽 I use to be a dancer and street performer.  
+🏉 When I'm not coding, I'm playing rugby.  
+🎥 My favorite movie is the 1988 anime Akira.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Follow Me:  
+⛓️ https://www.linkedin.com/in/mafreeman2  
+⛓️ https://www.onthemarkdata.com  
+⛓️ https://github.com/mellamomark  
